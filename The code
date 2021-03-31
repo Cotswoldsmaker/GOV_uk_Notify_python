@@ -1,0 +1,4 @@
+; AHK code
+
+Msgbox, "Hello world"
+Exitapp()
