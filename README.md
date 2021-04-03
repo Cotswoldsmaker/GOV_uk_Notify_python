@@ -16,16 +16,16 @@ Arguements:
 2. AKI_key
 3. template ID
 
-*SMS*
+SMS
 4. mobile number in format 07123456789
 5. message
 
-*Email*
+Email
 4. email address
 5. subject
 6. message
 
-*letter*
+letter
 4. address, using semi-colon ";" to denote new lines
 5. from
 6. heading
@@ -37,4 +37,5 @@ Then go into the folder with your code and run:
 pyinstaller --onefile .\GovNotify.py
 
 The dist folder will then hold the exe
+
 								 
