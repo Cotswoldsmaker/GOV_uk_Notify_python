@@ -9,9 +9,9 @@ SMS messages, emails or letters via the GOV.uk Notify service
 You need to sign up to GOV.uk first and then get an API-key and 
 template ID. You need to create templates with the below 'personalisations'.
 
-Once you have them the following arguements are taken:
+Once you have them the following arguments are taken:
 
-Arguements:
+Arguments:
 
 1. "SMS", "email" or "letter" to inform what communication method is required
 2. AKI_key
